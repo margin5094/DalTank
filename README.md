@@ -10,21 +10,7 @@ We have also integrated features such as idea submission for students, investor 
 
 The result is Daltank: a streamlined conduit between idea generators, academics, and potential financiers. It fosters a collaborative, transparent, and potentially lucrative environment for all parties involved. With its ten unique features, Daltank serves not only as a hub for innovation but also as a catalyst for growth, connecting vision with the resources needed for realization.
 
-- _Date Created_: 11th august, 2023
-- _Last Modification Date_: 12 august, 2023
 - Website Url : <https://demo-webb00918149.netlify.app/>
-- _Git URL_: <https://git.cs.dal.ca/akazi/csci-5709-group-12/-/tree/main/>
-
-## Authors
-
-Trusha Nipul Shah (tr335214@dal.ca)
-Fenil Patel (fenil.patel@dal.ca)
-Margin Mukeshbhai Patel (mr353045@dal.ca)
-Sarthak Dushyantkumar Patel (sr555161@dal.ca)
-Kazi Aniketh Anum (an584274@dal.ca)
-
-- _Url of the hosted application(Frontend)_ : <https://demo-webb00918149.netlify.app/>
-- Url of the hosted application (Backend) : <https://group12-backend.onrender.com>
 
 ## Deployment
 
@@ -62,7 +48,3 @@ The deployment process unfolds in several distinct stages as outlined below:
 [5] "Node.js [Online]. Available: https://nodejs.org/en. [Accessed: 20-jul-2023]
 [6] “Npm: Expressjs” npm. [Online]. Available:https://expressjs.com/. [Accessed: 20-Jul-2023].
 [7] "MongoDB [Online]. Available: https://www.mongodb.com/ [Accessed: 20-July-2023]".
-
-## Assignment Gitlab Repository URL
-
-[CSCI 5709 Grp-12] - https://git.cs.dal.ca/akazi/csci-5709-group-12/-/tree/main/
